@@ -1,2 +1,2 @@
-# ElvargClient
-Runescape client using Elvarg source.
+# Runescape-Elvarg
+Runescape client and server using Elvarg source.
